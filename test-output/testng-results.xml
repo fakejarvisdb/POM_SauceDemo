@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T14:39:12 IST" name="Default suite" finished-at="2025-06-02T14:39:31 IST" duration-ms="19183">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T14:39:12 IST" name="Default test" finished-at="2025-06-02T14:39:31 IST" duration-ms="19183">
+      <class name="tests.PlaceOrderTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:12 IST" name="beforeClass" finished-at="2025-06-02T14:39:12 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setUpReports()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:12 IST" name="setUpReports" finished-at="2025-06-02T14:39:13 IST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReports -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:13 IST" name="beforeMethod" finished-at="2025-06-02T14:39:16 IST" duration-ms="2854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPlaceOrder()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:16 IST" name="testPlaceOrder" finished-at="2025-06-02T14:39:23 IST" duration-ms="7767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlaceOrder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:23 IST" name="afterMethod" finished-at="2025-06-02T14:39:31 IST" duration-ms="7294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:31 IST" name="afterClass" finished-at="2025-06-02T14:39:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="writeReports()[pri:0, instance:tests.PlaceOrderTest@45c7e403]" started-at="2025-06-02T14:39:31 IST" name="writeReports" finished-at="2025-06-02T14:39:31 IST" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReports -->
+      </class> <!-- tests.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
